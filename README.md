@@ -47,4 +47,4 @@ This project analyzes pizza sales data using SQL to identify revenue trends, cus
 - Dataset
 - SQL Queries
 - Presentation
-- Screenshots
+  
