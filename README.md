@@ -116,11 +116,6 @@ Provides key business findings and recommendations.
 
 ---
 
-## 📸 Dashboard Preview
-
-<img width="1000" alt="Pizza Sales Dashboard" src="Dashboard/dashboard_screenshot.png">
-
----
 
 ## 📁 Project Structure
 
